@@ -1,0 +1,2 @@
+/Users/a3/Downloads/Telegram Desktop/art-seeker-app-demo/android/app/.cxx/Debug/d1r413z6/x86_64/CMakeFiles/edit_cache.dir
+/Users/a3/Downloads/Telegram Desktop/art-seeker-app-demo/android/app/.cxx/Debug/d1r413z6/x86_64/CMakeFiles/rebuild_cache.dir
